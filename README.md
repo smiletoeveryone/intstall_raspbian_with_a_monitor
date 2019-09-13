@@ -1,7 +1,8 @@
 # intstall_raspbian_with_a_monitor
 ![](https://github.com/smiletoeveryone/intstall_raspbian_with_a_monitor/blob/master/raspberry_with_a_minitor.jpg)
 
-1. download boobs from the link below
+1.download boobs from the link below
+
 https://www.raspberrypi.org/downloads/noobs/
 
 2.format your sd card as fat32 from your windows 10.
