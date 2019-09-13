@@ -5,9 +5,9 @@
 
 https://www.raspberrypi.org/downloads/noobs/
 
-2.format your sd card as fat32 i windows 10.
+2.format your sd card as fat32 in windows 10.
 
-3.unzip noobs in your windows 10.
+3.unzip noobs in windows 10.
 
 4.copy all files you unzipped from noobs, paste into the root of your sd card.
 
@@ -15,5 +15,5 @@ https://www.raspberrypi.org/downloads/noobs/
 
 6.you would see a graphic desktop instalation instructions in your screen.
 
-7.follow the instructions for finishing the rest of steps.
+7.follow the instructions in the screen for finishing the rest of steps.
 
