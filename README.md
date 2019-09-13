@@ -5,7 +5,7 @@
 
 https://www.raspberrypi.org/downloads/noobs/
 
-2.format your sd card as fat32 from your windows 10.
+2.format your sd card as fat32 i windows 10.
 
 3.unzip noobs in your windows 10.
 
